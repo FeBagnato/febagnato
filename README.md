@@ -1,9 +1,7 @@
 ![Banner](img/coding.png)
 
-<p aling="center">
 <img
 alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&center=true&vCenter=true&width=1000&lines=Hello+World!+%F0%9F%8C%8E;Ol%C3%A1+Mundo!+%F0%9F%8C%8E;Hallo+Welt!+%F0%9F%8C%8E">
-</p>
 
 ## 👨‍💻 About Me:
 
@@ -16,10 +14,10 @@ alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&cent
 ### :zap: github stats
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=febagnato&show_icons=true&theme=tokyonight&include_all_commits=true" height=165px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=febagnato&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height=165px/>
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=febagnato&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febagnato&layout=compact&theme=tokyonight"/>
 </span>
 
 ## 💻 Technologies
