@@ -1,6 +1,7 @@
 ![Banner](img/coding.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2200&center=true&vCenter=true&width=630&lines=Hello+World!+🌎;Ol%C3%A1+Mundo!+🌎;Hallo+Welt!+🌎)](https://git.io/typing-svg)
+<img style="margin-left: auto; margin-right: auto; display:block"
+alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&center=true&vCenter=true&width=630&lines=Hello+World!+%F0%9F%8C%8E;Ol%C3%A1+Mundo!+%F0%9F%8C%8E;Hallo+Welt!+%F0%9F%8C%8E">
 
 ## 👨‍💻 About Me:
 
