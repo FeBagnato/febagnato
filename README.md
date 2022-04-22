@@ -1,7 +1,9 @@
 ![Banner](img/coding.png)
 
-<img style="margin-left: auto; margin-right: auto; display:block"
-alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&center=true&vCenter=true&width=630&lines=Hello+World!+%F0%9F%8C%8E;Ol%C3%A1+Mundo!+%F0%9F%8C%8E;Hallo+Welt!+%F0%9F%8C%8E">
+<p aling="center">
+<img
+alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&center=true&vCenter=true&width=1000&lines=Hello+World!+%F0%9F%8C%8E;Ol%C3%A1+Mundo!+%F0%9F%8C%8E;Hallo+Welt!+%F0%9F%8C%8E">
+</p>
 
 ## 👨‍💻 About Me:
 
