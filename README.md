@@ -5,9 +5,9 @@ alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&cent
 
 ## 👨‍💻 About Me:
 
-* :seedling: I'm currently learning **Web Development**
-* 🧑‍🏭 I'm mastering my skills in **Android Development**
-* :speech_balloon: Ask me about **Kotlin**
+* :seedling: I'm currently learning **OS Development**
+* 🧑‍🏭 I'm mastering my skills in **Low level programming**
+* :speech_balloon: Ask me about **Rust**
 
 ## :information_source: Github Info:
 
@@ -25,17 +25,14 @@ alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&cent
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-5a60b7?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23E34F26.svg?style=for-the-badge&logo=rust&logoColor=white&color=gray)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Frameworks, Libraries and Platforms
-![Spring](https://img.shields.io/badge/-spring-lightgreen?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![LVGL](https://img.shields.io/badge/lvgl-%23E34F26.svg?style=for-the-badge&logo=lvgl&logoColor=white&color=fb2d2d)
 ![QT](https://img.shields.io/badge/-Qt-lightgreen?style=for-the-badge&logo=qt&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-6da55f?style=for-the-badge&logo=androidstudio)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-lightgrey?style=for-the-badge&logo=hibernate)
@@ -47,6 +44,7 @@ alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?duration=2200&cent
 
 #### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23E34F26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### Operational System
